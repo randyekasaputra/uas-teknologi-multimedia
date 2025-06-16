@@ -4,8 +4,7 @@ import { useState, useCallback } from 'react'
 import { useDropzone } from 'react-dropzone'
 import Link from 'next/link'
 import { PDFDocument } from 'pdf-lib'
-import { FaCloudUploadAlt, FaShieldAlt, FaRegClock, FaRegFileAlt, FaDownload, FaArrowLeft, FaFileAlt, FaFileImage, FaFilePdf, FaFileWord, FaFilePowerpoint, FaFileVideo, FaCompressAlt, FaBolt } from 'react-icons/fa'
-import { MdCompress } from 'react-icons/md'
+import { FaCloudUploadAlt, FaRegFileAlt, FaDownload, FaArrowLeft, FaFileAlt, FaBolt } from 'react-icons/fa'
 
 export default function CompressPage() {
   const [file, setFile] = useState<File | null>(null)

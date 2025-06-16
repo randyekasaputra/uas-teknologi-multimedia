@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import { FaCloudUploadAlt, FaShieldAlt, FaRegClock, FaRegFileAlt, FaDownload, FaBolt } from 'react-icons/fa'
-import { MdCompress } from 'react-icons/md'
 
 export default function WelcomePage() {
   return (
