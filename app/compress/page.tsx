@@ -339,7 +339,7 @@ export default function CompressPage() {
                 </span>
               ))}
             </div>
-            <p className="text-gray-500 text-xs mt-3">Maksimal 100MB</p>
+            <p className="text-gray-500 text-xs mt-3"></p>
           </div>
         </div>
       )
