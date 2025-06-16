@@ -71,15 +71,6 @@ https://compressi-file.vercel.app/
    - Nama file akan ditambahkan suffix "_compressed"
    - File hasil akan disimpan di folder Downloads
 
-## Deployment
-
-Aplikasi dapat di-deploy ke Vercel dengan langkah-langkah berikut:
-
-1. Buat akun di [Vercel](https://vercel.com)
-2. Hubungkan repository GitHub dengan Vercel
-3. Pilih repository yang akan di-deploy
-4. Klik "Deploy"
-
 ## Teknologi yang Digunakan
 
 - Next.js 15.3.3
