@@ -112,3 +112,6 @@ Jika Anda mengalami masalah atau memiliki pertanyaan, silakan buat issue di repo
 ## Lisensi
 
 Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
+
+APLIKASI:
+https://compressi-file.vercel.app/
