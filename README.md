@@ -38,6 +38,9 @@ npm run dev
 ```
 
 4. Buka browser dan akses `http://localhost:3000`
+   
+## APLIKASI
+https://compressi-file.vercel.app/
 
 ## Panduan Penggunaan
 
