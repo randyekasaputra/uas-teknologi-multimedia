@@ -52,7 +52,7 @@ https://compressi-file.vercel.app/
 1. Upload File
    - Klik area upload atau drag-and-drop file ke area tersebut
    - File yang didukung: JPG, PNG, WebP, PDF, DOCX, XLSX, PPTX, MP4, WebM
-   - Maksimum ukuran file: 100MB
+   - Maksimum ukuran file: 10MB
 
 2. Pilih Jenis Kompresi
    - Pilih jenis kompresi yang sesuai dengan tipe file
